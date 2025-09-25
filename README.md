@@ -64,10 +64,3 @@ git commit -am "docs: agrega screenshots y README"
 git push
 ```
 
-## Evidencias
-Guárdalo (asegúrate que el editor esté en **UTF-8**), luego:
-
-```powershell
-git add README.md
-git commit -m "docs: README en UTF-8 correcto"
-git push
