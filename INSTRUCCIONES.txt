@@ -1,0 +1,1 @@
+Abra la solución SistemaGestionAcademica.sln en Visual Studio y presione F5.
